@@ -1,2 +1,22 @@
 # SI
-Supporting Information.
+**Supporting Information**, here are the graphs for the fluctuation functions.
+
+The graphs are labeled as following:
+
+* Palestrina Motets: PalestrinaMo-#
+* Bach Musical Offering: BachMO-#
+* Bach Well Tempered Clavier: BachWTK-#
+* Haydn String Quartets: HaydnSQ-#
+* Mozart Piano Sonatas: MozartPS-#
+* Mozart String Quartets: MozartSQ-#
+* Beethoven Fugues: BeethovenF-#
+* Beethoven Early Quartets: BeethovenEQ-#
+* Beethoven Late Quartets: BeethovenLQ-#
+* Dvorak Humoresques: DvorakH-#
+* Dvorak Silhouettes: DvorakS-#
+* Dvorak Serenade for Strings: DvorakSt-#
+* Shostakovich Preludes and Fugues: ShostakovichPF-#
+
+The number corresponds to the place in the full list of opus. 
+
+Files corresponding to a scaling behavior over all *s* boxes (profile 1) are labeled as *Composer*Scaling.pdf, files corresponding to the functions showing a crossover (profiles 1 and 2) are labeled as *Composer*Crossover.pdf, the files with the graps of profiles 4 and 5 are labeled as *Composer*NoScaling.pdf
